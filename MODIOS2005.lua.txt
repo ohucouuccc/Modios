@@ -314,7 +314,7 @@ v5:Destroy();
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkibidiHub111/Gui11/refs/heads/main/Idk"))();
 local v15 = v14:CreateWindow({
     Title = "MODIOS",
-    SubTitle = "Blox Fruit",
+    SubTitle = "[Blox Fruit] Lê Đức",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
